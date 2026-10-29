@@ -1,4 +1,4 @@
-those projects explore supervised learning techniques, model training, hyperparameter tuning, evaluation, and visualization using Python and popular machine learning libraries.
+Those projects explore supervised learning techniques, model training, hyperparameter tuning, evaluation, and visualization using Python and popular machine learning libraries.
 
 ## Projects Overview
 
